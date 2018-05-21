@@ -1,9 +1,9 @@
 # Project200k
 
-Questions for each day -> <update here>
+Questions for each day -> update this
   
   
-Deadline for each questions -> <update here>
+Deadline for each questions -> update this
   
   
  
