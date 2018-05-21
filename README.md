@@ -7,7 +7,7 @@ Deadline for each questions -> <update here>
  
 # List of Questions solved
 
-| Question Name  |  Link | Date Solved  | Tags  |   |
+| Question Name  |  Link | Date Solved  | Tags  | Difficulty  |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
