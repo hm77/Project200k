@@ -1,0 +1,25 @@
+import sys
+
+input='pwwkew'
+
+
+def substring(input):
+    count = 0
+    temp = []
+
+    for each in input:
+        if each not in temp:
+            temp.append(each)
+        else:
+            count_tmp=len(temp)
+            count=count_tmp if count_tmp>count else count
+            temp[:]=[]
+            temp.append(each)
+    if temp:
+        count_tmp=len(temp)
+        count = count_tmp if count_tmp > count else count
+        return count
+
+if __name__=='__main__':
+    result=substring(input)
+    print result
